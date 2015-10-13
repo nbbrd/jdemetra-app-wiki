@@ -88,7 +88,7 @@ As for most of the APIs of JDemetra+, the engine (core) and the user interface (
 
 ### Core API
 
-The TS providers core API are located in the package [`ec.tss.tsproviders`](https://github.com/jdemetra/jdemetra-core/tree/develop/jtss/src/main/java/ec/tss/tsproviders) of the [`demetra-jtss`](https://github.com/jdemetra/jdemetra-core/tree/develop/jtss) project.
+The TS providers core API is located in the package [`ec.tss.tsproviders`](https://github.com/jdemetra/jdemetra-core/tree/develop/jtss/src/main/java/ec/tss/tsproviders) of the [`demetra-jtss`](https://github.com/jdemetra/jdemetra-core/tree/develop/jtss) project.
 Here are the most important classes:
  
 | Type | Description |
@@ -103,7 +103,7 @@ Note that the package [`ec.tss.tsproviders.utils`](https://github.com/jdemetra/j
 
 ### UI API
 
-The TS providers core API are located in the package [`ec.nbdemetra.ui.tsproviders`](https://github.com/jdemetra/jdemetra-app/tree/develop/nbdemetra-ui/src/main/java/ec/nbdemetra/ui/tsproviders) of the [`nbdemetra-ui`](https://github.com/jdemetra/jdemetra-app/tree/develop/nbdemetra-ui) project.
+The TS providers UI API is located in the package [`ec.nbdemetra.ui.tsproviders`](https://github.com/jdemetra/jdemetra-app/tree/develop/nbdemetra-ui/src/main/java/ec/nbdemetra/ui/tsproviders) of the [`nbdemetra-ui`](https://github.com/jdemetra/jdemetra-app/tree/develop/nbdemetra-ui) project.
 Here are the most important classes:
  
 | Type | Description |
