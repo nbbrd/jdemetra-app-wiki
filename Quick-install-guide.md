@@ -22,7 +22,7 @@ JDemetra+ runs on the **Java SE Runtime Environment (JRE) version 7 update 25 or
 1. Download the platform-independent zip package at:  
    [https://github.com/jdemetra/jdemetra-app/releases/latest](https://github.com/jdemetra/jdemetra-app/releases/latest)
 2. Extract it to any folder on your system
-3. Run the executable file located in the nbdemetra/bin directory:  
+3. Run the executable file located in the `nbdemetra/bin` directory:  
    `nbdemetra.exe` for Windows  
    `$ ./nbdemetra` for Linux, Solaris and Mac OS X
 
@@ -36,3 +36,6 @@ If the launching of JDemetra+ fails, you can try the following operations:
    `~/.nbdemetra/dev/var/log/` for Linux and Solaris  
    `~/Library/Application Support/.nbdemetra/dev/var/log/` for Mac OS X
 
+##A few tips
+
+* You can run JDemetra+ with a specific JRE by editing the config file `nbdemetra/etc/nbdemetra.conf` (see `jdkhome`).
